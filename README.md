@@ -16,7 +16,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
+    <img src="https://github.com/RugvedSoman/PBI_P3/blob/main/mock%20up%20dashboard_atliq%20grands.png?raw=true" width="600">
 </p>
 
 
@@ -26,18 +26,6 @@ Their revenue management team had decided to hire a 3rd party service provider t
     <img src='https://github.com/RugvedSoman/PBI_P3/blob/main/data_model.png?raw=true' height="400">
 </p>
 
-
-## Overall Analysis View
-
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
-</p>
-
-## Monthly Analysis View
-
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
-</p>
 
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
